@@ -116,5 +116,5 @@ Key features:
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moien_Heydari-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/moienheydari)
-[![GitHub](https://img.shields.io/badge/GitHub-devbrave04-333333?style=flat\&logo=github)](https://github.com/moienheydari)
+[![GitHub](https://img.shields.io/badge/GitHub-moienheydari-333333?style=flat\&logo=github)](https://github.com/moienheydari)
 
