@@ -68,51 +68,6 @@ Worked on an academic exam scheduling system involving:
 
 ---
 
-## Featured Projects
-
-### Academic Exam Scheduling Platform
-
-A full-stack web platform designed to support university exam date allocation and scheduling workflows.
-
-**Tech:** React, Python, FastAPI/Flask, SQLAlchemy, SQL, Linux deployment
-
-Key features:
-
-* Role-based access for different users
-* REST API integration
-* Dynamic frontend interface
-* Database-backed scheduling data
-* Server deployment and maintenance
-
----
-
-## Awards & Achievements
-
-* 🏆 1st Place — Lavazza Design & Business Competition, 2026
-* 🎓 Strong academic performance in Computer Engineering
-* 🥇 Gold Medal — National Stem Cell & Regenerative Medicine Olympiad
-* 🌟 Member of Iran's National Elites Foundation
-
----
-
-## Currently Learning
-
-* Advanced backend engineering
-* DevOps and Linux-based deployment
-* Optimization algorithms
-* Scalable web application architecture
-* AI-assisted software development workflows
-
----
-
-## Languages
-
-* Persian — Native
-* English — Fluent
-* Italian — Intermediate
-
----
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moien_Heydari-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/moienheydari)
